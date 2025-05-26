@@ -1,8 +1,8 @@
 
-**#Task 1 Elevatelabs**
-# Titanic Data Cleaning Project
+**# Task 1: Data Cleaning & Preprocessing (Elevatelabs)**
 
-This project involves cleaning and preprocessing the Titanic dataset, including:
+
+This Task involves cleaning and preprocessing the Titanic dataset, including:
 
 - Handling missing values
 - Encoding categorical variables
